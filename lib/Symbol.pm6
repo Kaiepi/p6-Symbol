@@ -1,5 +1,5 @@
 use v6.d;
-unit class Symbol:auth<github:Kaiepi>:ver<0.0.1>;
+unit class Symbol:auth<github:Kaiepi>:ver<0.0.2>;
 
 has Str $.description;
 

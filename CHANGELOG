@@ -2,3 +2,7 @@ Revision history for Symbol
 
 v0.0.1:
     - Initial version
+
+v0.0.2:
+    - Actually edit META6.json
+    - Minor documentation style fixes
