@@ -3,7 +3,7 @@
 NAME
 ====
 
-Symbol - Port of JavaScript's Symbol primitive type
+Symbol - Port of Javascript's Symbol primitive type
 
 SYNOPSIS
 ========
@@ -19,7 +19,7 @@ say Symbol.for('ayy lmao') =:= Symbol.for('ayy lmao'); # OUTPUT: True
 DESCRIPTION
 ===========
 
-Symbol is a port of JavaScript's Symbol primitive type. This implements creating Symbol instances, but not the behaviour of well-defined symbols.
+Symbol is a port of Javascript's Symbol primitive type. This implements creating Symbol instances, but not the behaviour of well-defined symbols.
 
 Symbol's purpose is to provide a way to create objects that are guaranteed to be unique. Optionally, they can be provided with a description, which is mainly used when stringifying them.
 

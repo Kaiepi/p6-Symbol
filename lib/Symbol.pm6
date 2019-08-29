@@ -41,7 +41,7 @@ multi method perl(Symbol:D: --> Str:D) {
 
 =head1 NAME
 
-Symbol - Port of JavaScript's Symbol primitive type
+Symbol - Port of Javascript's Symbol primitive type
 
 =head1 SYNOPSIS
 
@@ -55,7 +55,7 @@ say Symbol.for('ayy lmao') =:= Symbol.for('ayy lmao'); # OUTPUT: True
 
 =head1 DESCRIPTION
 
-Symbol is a port of JavaScript's Symbol primitive type. This implements
+Symbol is a port of Javascript's Symbol primitive type. This implements
 creating Symbol instances, but not the behaviour of well-defined symbols.
 
 Symbol's purpose is to provide a way to create objects that are guaranteed to
